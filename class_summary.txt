@@ -1,0 +1,27 @@
+Today's class focused on Version Control using Git, a distributed version control system
+created by Linus Torvalds. We learned how Git helps developers track changes in source code
+and manage project versions efficiently.
+
+The differences between Git, GitHub, and GitLab were discussed. Git is a version control tool,
+whereas GitHub and GitLab are platforms used to host and manage Git repositories online.
+Git SCM was introduced as the official source for downloading Git, where SCM stands for
+Source Code Management.
+
+We learned how to create a repository and understood that a repository is essentially a
+directory or folder that is tracked by Git. The concept of untracked files was explained,
+which refers to files that are present in a directory but not yet added to Git for tracking.
+
+The class also covered the difference between PowerShell and PowerShell ISE, where
+PowerShell ISE provides a graphical interface for scripting and command execution.
+
+Basic programming languages such as BASIC, Pascal, and COBOL were discussed to understand
+the evolution of programming languages and their historical importance.
+
+We also learned about Margaret Hamilton, a software engineer at NASA, who wrote critical
+software code for the Apollo space missions. Her work played a major role in the success
+of lunar missions, and she is credited with popularizing the term "Software Engineering."
+
+Finally, we learned how to create and manage a Git repository using commands in Git Bash,
+which helps in understanding real-world version control workflows.
+submited to:
+@Victor-Ikechukwu
